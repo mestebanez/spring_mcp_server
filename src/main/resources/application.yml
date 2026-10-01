@@ -1,0 +1,21 @@
+server:
+  port: 8081
+
+spring:
+  ai:
+    mcp:
+      server:
+        protocol: STREAMABLE
+    model:
+      embedding: bedrock-titan
+    bedrock:
+      embedding:
+        model: amazon.titan-embed-text-v2:0
+management:
+  endpoints:
+    web:
+      exposure:
+        include: mappings,health,info
+      endpoint:
+        health:
+        show-details: always

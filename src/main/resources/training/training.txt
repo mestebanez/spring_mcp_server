@@ -1,0 +1,30 @@
+The application runs on port 8080.
+Spring Boot provides dependency injection.
+Java is a statically typed programming language.
+Lucene supports full-text search.
+Embeddings convert text into numerical vectors.
+A vector search finds semantically similar content.
+The capital of France is Paris.
+London is the capital of the United Kingdom.
+Madrid is the capital of Spain.
+Cats are popular household pets.
+Dogs are loyal animals.
+A bicycle has two wheels.
+A car typically has four wheels.
+Maven manages Java project dependencies.
+Gradle is another Java build tool.
+Amazon Bedrock provides access to foundation models.=
+Titan Text Embeddings generate vectors from text.
+An MCP server exposes tools to AI clients.
+The meaning of life is ridiculous.
+To give something is to receive something.
+Water freezes at zero degrees Celsius.
+The Earth orbits the Sun.
+A database stores persistent information.
+REST APIs commonly use HTTP.
+JSON is a popular data interchange format.
+The Cardiff office is located in Wales.
+A JVM executes Java bytecode.
+Vector databases optimize similarity searches.
+Artificial intelligence can generate text.
+Machine learning models learn patterns from data.
